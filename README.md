@@ -1,5 +1,7 @@
 # Mini IOT Projects In Cisco Packet Tracer
 
+![banner.png](models/banner.png)
+
 ## Why should I use such thing?
 
 Simple answer is: you don't have to!
