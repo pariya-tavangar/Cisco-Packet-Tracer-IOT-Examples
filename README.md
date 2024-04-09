@@ -10,7 +10,7 @@ This repo is for those who are obsessed with how IOT works and curious about dif
 
 ## How To Use? ⚙
 
-This repository contains some prepared examples which you can simply download and imply your own new ideas. Each file owns short explanation about the main procedure in the attached documentation.
+This repository contains some prepared examples which you can simply download and imply your own innovation. Each file owns short explanation about the main procedure in the attached documentation.
 
 ## Developer Todo 📝
 - [x] add first 4 files
