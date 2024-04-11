@@ -19,7 +19,7 @@ This repository contains some prepared examples which you can simply download an
 
 
 ## Documentation 📚
-For more information on every peoject procedure, head to the wiki page
+For more information on every project procedure, head to the wiki page
 [Wiki Link](https://github.com/pariya-tavangar/Cisco-Packet-Tracer-IOT-Examples/wiki)
 
 Need offline access? clone wiki locally
